@@ -1,0 +1,13 @@
+# Abaikan folder/file model AI yang ukurannya gajah
+models/*.keras
+models/*.h5
+
+# Abaikan file sampah sistem atau virtual environment (opsional tapi bagus)
+__pycache__/
+.ipynb_checkpoints/
+
+# Abaikan Dataset
+*.zip
+images/
+train.csv
+test.csv
