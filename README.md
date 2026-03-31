@@ -7,7 +7,7 @@ Sistem pendeteksi penyakit daun apel menggunakan arsitektur EfficientNetB3 dan G
    `git clone https://github.com/alvarotrytounderstand/Apple-Leaf-Disease-Detection`
 2. Install semua library yang dibutuhkan (TensorFlow, Streamlit, OpenCV, dll).
 3. **PENTING:** Download file model AI-nya melalui link Google Drive berikut:
-   👉 [LINK GDRIVE LU TARUH SINI]
+   👉 `https://drive.google.com/file/d/1SArFZSE5emlIUBWupZYwDEC8V31iYvRk/view?usp=sharing`
 4. Buat folder bernama `models` di dalam project ini, lalu masukkan file model yang sudah didownload ke dalam folder tersebut.
 5. Jalankan aplikasi menggunakan Streamlit:
    `streamlit run app.py`
